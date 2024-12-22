@@ -1,0 +1,511 @@
+{
+    "messages": [
+         {
+            "user": "hi",
+            "bot": "Hello! What is your favorite type of electronics?"
+        },{
+            "user": "Tell me about the laptops.",
+            "bot": "We have a wide range of laptops, including MacBooks, Dell XPS, and HP Spectre."
+        },
+        {
+            "user": "Can you recommend a good gaming mouse?",
+            "bot": "I recommend the Logitech G502 Hero, it has great features for gaming."
+        },
+        {
+            "user": "What categories of electronics do you have?",
+            "bot": "We have categories like phones, laptops, headphones, and gaming accessories."
+        },
+        {
+            "user": "Which headphones do you recommend?",
+            "bot": "I recommend the Sony WH-1000XM4 for its excellent noise cancellation and sound quality."
+        },
+        {
+            "user": "Are there any deals on tablets?",
+            "bot": "Currently, we have a discount on the Apple iPad, reduced by 15%."
+        },
+        {
+            "user": "Give me some information about gaming headsets.",
+            "bot": "We have several great gaming headsets, including the SteelSeries Arctis 7 and Razer Kraken."
+        },
+        {
+            "user": "What is the best laptop for students?",
+            "bot": "For students, I recommend the MacBook Air for its portability and battery life, or the Dell XPS 13 for performance."
+        },
+        {
+            "user": "Can you recommend a good mouse?",
+            "bot": "I recommend the Logitech G502 Hero, it has great features for gaming."
+        },
+        {
+            "user": "Tell me about mouses",
+            "bot": "We have a wide range of laptops, including MacBooks, Dell XPS, and HP Spectre."
+        },
+       
+        {
+            "user": "what electronics are you talking about",
+            "bot": "Hello! What is your favorite type of electronics?"
+        },
+        {
+            "user": "headphones",
+            "bot": "I recommend the Sony WH-1000XM4 for its excellent noise cancellation and sound quality."
+        },
+        {
+            "user": "what gaming accessories do you have?",
+            "bot": "I recommend the Logitech G502 Hero, it has great features for gaming."
+        },
+        {
+            "user": "gaming accessorie",
+            "bot": "I recommend the Logitech G502 Hero, it has great features for gaming."
+        },
+
+        {
+            "user": "i want category",
+            "bot": "which one? I can recommend phones,tablets,headphones or laptops."
+        },
+        {
+            "user": "are you joking",
+            "bot": "I recommend the Logitech G502 Hero, it has great features for gaming."
+        },
+        {
+            "user": "Can you recommend a good gaming mouse?",
+            "bot": "I recommend the Logitech G502 Hero, it has great features for gaming."
+        },
+        {
+            "user": "Tell me about the laptops.",
+            "bot": "We have a wide range of laptops, including MacBooks, Dell XPS, and HP Spectre."
+        },
+        {
+            "user": "what are the categories you have?",
+            "bot": "We have categories like phones, laptops, headphones, and gaming accessories."
+        }
+    ],
+    "products":
+        [
+            {
+              "Product_ID": 1,
+              "Product_Name": "iPad Pro 1",
+              "Product_Description": "A powerful tablet suitable for work and entertainment.",
+              "Product_Price": 1053.77,
+              "Product_Quantity": 59,
+              "Category_Name": "Tablet"
+            },
+            {
+              "Product_ID": 2,
+              "Product_Name": "iPhone 2",
+              "Product_Description": "A high-end smartphone with an exceptional camera.",
+              "Product_Price": 1024.04,
+              "Product_Quantity": 0,
+              "Category_Name": "Phone"
+            },
+            {
+              "Product_ID": 3,
+              "Product_Name": "Sony WH-1000XM4 3",
+              "Product_Description": "Premium noise-canceling wireless headphones.",
+              "Product_Price": 340.35,
+              "Product_Quantity": 59,
+              "Category_Name": "Headphones"
+            },
+            {
+              "Product_ID": 4,
+              "Product_Name": "Samsung QLED 4",
+              "Product_Description": "A 4K smart TV with vibrant colors.",
+              "Product_Price": 1199.16,
+              "Product_Quantity": 53,
+              "Category_Name": "TV"
+            },
+            {
+              "Product_ID": 5,
+              "Product_Name": "Razer BlackWidow 5",
+              "Product_Description": "A mechanical keyboard for gamers.",
+              "Product_Price": 218.22,
+              "Product_Quantity": 11,
+              "Category_Name": "Keyboard"
+            },
+            {
+              "Product_ID": 6,
+              "Product_Name": "Sony WH-1000XM4 6",
+              "Product_Description": "Premium noise-canceling wireless headphones.",
+              "Product_Price": 398.35,
+              "Product_Quantity": 0,
+              "Category_Name": "Headphones"
+            },
+            {
+              "Product_ID": 7,
+              "Product_Name": "iPhone 7",
+              "Product_Description": "A high-end smartphone with an exceptional camera.",
+              "Product_Price": 965.53,
+              "Product_Quantity": 58,
+              "Category_Name": "Phone"
+            },
+            {
+              "Product_ID": 8,
+              "Product_Name": "Samsung Galaxy 8",
+              "Product_Description": "A premium Android phone with great performance.",
+              "Product_Price": 821.48,
+              "Product_Quantity": 6,
+              "Category_Name": "Phone"
+            },
+            {
+              "Product_ID": 9,
+              "Product_Name": "Sony WH-1000XM4 9",
+              "Product_Description": "Premium noise-canceling wireless headphones.",
+              "Product_Price": 368.47,
+              "Product_Quantity": 16,
+              "Category_Name": "Headphones"
+            },
+            {
+              "Product_ID": 10,
+              "Product_Name": "iPhone 10",
+              "Product_Description": "A high-end smartphone with an exceptional camera.",
+              "Product_Price": 959.87,
+              "Product_Quantity": 94,
+              "Category_Name": "Phone"
+            },
+            {
+              "Product_ID": 11,
+              "Product_Name": "Sony WH-1000XM4 11",
+              "Product_Description": "Premium noise-canceling wireless headphones.",
+              "Product_Price": 392.91,
+              "Product_Quantity": 88,
+              "Category_Name": "Headphones"
+            },
+            {
+              "Product_ID": 12,
+              "Product_Name": "iPad Pro 12",
+              "Product_Description": "A powerful tablet suitable for work and entertainment.",
+              "Product_Price": 1074.9,
+              "Product_Quantity": 40,
+              "Category_Name": "Tablet"
+            },
+            {
+              "Product_ID": 13,
+              "Product_Name": "Razer BlackWidow 13",
+              "Product_Description": "A mechanical keyboard for gamers.",
+              "Product_Price": 208.98,
+              "Product_Quantity": 40,
+              "Category_Name": "Keyboard"
+            },
+            {
+              "Product_ID": 14,
+              "Product_Name": "Logitech G502 Hero 14",
+              "Product_Description": "A precise and durable gaming mouse.",
+              "Product_Price": 43.53,
+              "Product_Quantity": 37,
+              "Category_Name": "Gaming Mouse"
+            },
+            {
+              "Product_ID": 15,
+              "Product_Name": "Logitech G502 Hero 15",
+              "Product_Description": "A precise and durable gaming mouse.",
+              "Product_Price": 67.28,
+              "Product_Quantity": 68,
+              "Category_Name": "Gaming Mouse"
+            },
+            {
+              "Product_ID": 16,
+              "Product_Name": "iPhone 16",
+              "Product_Description": "A high-end smartphone with an exceptional camera.",
+              "Product_Price": 1006.59,
+              "Product_Quantity": 74,
+              "Category_Name": "Phone"
+            },
+            {
+              "Product_ID": 17,
+              "Product_Name": "iPad Pro 17",
+              "Product_Description": "A powerful tablet suitable for work and entertainment.",
+              "Product_Price": 1096.32,
+              "Product_Quantity": 32,
+              "Category_Name": "Tablet"
+            },
+            {
+              "Product_ID": 18,
+              "Product_Name": "Razer BlackWidow 18",
+              "Product_Description": "A mechanical keyboard for gamers.",
+              "Product_Price": 231.85,
+              "Product_Quantity": 87,
+              "Category_Name": "Keyboard"
+            },
+            {
+              "Product_ID": 19,
+              "Product_Name": "iPhone 19",
+              "Product_Description": "A high-end smartphone with an exceptional camera.",
+              "Product_Price": 976.22,
+              "Product_Quantity": 76,
+              "Category_Name": "Phone"
+            },
+            {
+              "Product_ID": 20,
+              "Product_Name": "iPhone 20",
+              "Product_Description": "A high-end smartphone with an exceptional camera.",
+              "Product_Price": 1032.09,
+              "Product_Quantity": 86,
+              "Category_Name": "Phone"
+            },
+            {
+              "Product_ID": 21,
+              "Product_Name": "Sony WH-1000XM4 21",
+              "Product_Description": "Premium noise-canceling wireless headphones.",
+              "Product_Price": 326.65,
+              "Product_Quantity": 26,
+              "Category_Name": "Headphones"
+            },
+            {
+              "Product_ID": 22,
+              "Product_Name": "Samsung Galaxy 22",
+              "Product_Description": "A premium Android phone with great performance.",
+              "Product_Price": 809.92,
+              "Product_Quantity": 45,
+              "Category_Name": "Phone"
+            },
+          
+            {
+              "Product_ID": 23,
+              "Product_Name": "Razer BlackWidow 23",
+              "Product_Description": "A mechanical keyboard for gamers.",
+              "Product_Price": 183.6,
+              "Product_Quantity": 84,
+              "Category_Name": "Keyboard"
+            },
+            {
+              "Product_ID": 24,
+              "Product_Name": "MacBook Pro 24",
+              "Product_Description": "Apple's high-performance laptop for professionals.",
+              "Product_Price": 1309.13,
+              "Product_Quantity": 41,
+              "Category_Name": "Laptop"
+            },
+            {
+              "Product_ID": 25,
+              "Product_Name": "MacBook Pro 25",
+              "Product_Description": "Apple's high-performance laptop for professionals.",
+              "Product_Price": 1258.99,
+              "Product_Quantity": 24,
+              "Category_Name": "Laptop"
+            },
+            {
+              "Product_ID": 26,
+              "Product_Name": "iPhone 26",
+              "Product_Description": "A high-end smartphone with an exceptional camera.",
+              "Product_Price": 1018.16,
+              "Product_Quantity": 36,
+              "Category_Name": "Phone"
+            },
+            {
+              "Product_ID": 27,
+              "Product_Name": "Razer BlackWidow 27",
+              "Product_Description": "A mechanical keyboard for gamers.",
+              "Product_Price": 166.5,
+              "Product_Quantity": 50,
+              "Category_Name": "Keyboard"
+            },
+            {
+              "Product_ID": 28,
+              "Product_Name": "Logitech G502 Hero 28",
+              "Product_Description": "A precise and durable gaming mouse.",
+              "Product_Price": 122.25,
+              "Product_Quantity": 86,
+              "Category_Name": "Gaming Mouse"
+            },
+            {
+              "Product_ID": 29,
+              "Product_Name": "iPad Pro 29",
+              "Product_Description": "A powerful tablet suitable for work and entertainment.",
+              "Product_Price": 1092.97,
+              "Product_Quantity": 87,
+              "Category_Name": "Tablet"
+            },
+            {
+              "Product_ID": 30,
+              "Product_Name": "iPad Pro 30",
+              "Product_Description": "A powerful tablet suitable for work and entertainment.",
+              "Product_Price": 1068.79,
+              "Product_Quantity": 69,
+              "Category_Name": "Tablet"
+            },
+            {
+              "Product_ID": 31,
+              "Product_Name": "Razer BlackWidow 31",
+              "Product_Description": "A mechanical keyboard for gamers.",
+              "Product_Price": 241.73,
+              "Product_Quantity": 23,
+              "Category_Name": "Keyboard"
+            },
+            {
+              "Product_ID": 32,
+              "Product_Name": "Razer BlackWidow 32",
+              "Product_Description": "A mechanical keyboard for gamers.",
+              "Product_Price": 182.18,
+              "Product_Quantity": 85,
+              "Category_Name": "Keyboard"
+            },
+            {
+              "Product_ID": 33,
+              "Product_Name": "Sony WH-1000XM4 33",
+              "Product_Description": "Premium noise-canceling wireless headphones.",
+              "Product_Price": 364.29,
+              "Product_Quantity": 96,
+              "Category_Name": "Headphones"
+            },
+            {
+              "Product_ID": 34,
+              "Product_Name": "Razer BlackWidow 34",
+              "Product_Description": "A mechanical keyboard for gamers.",
+              "Product_Price": 241.68,
+              "Product_Quantity": 74,
+              "Category_Name": "Keyboard"
+            },
+            {
+              "Product_ID": 35,
+              "Product_Name": "Samsung Galaxy 35",
+              "Product_Description": "A premium Android phone with great performance.",
+              "Product_Price": 755.23,
+              "Product_Quantity": 18,
+              "Category_Name": "Phone"
+            },
+            {
+              "Product_ID": 36,
+              "Product_Name": "Logitech G502 Hero 36",
+              "Product_Description": "A precise and durable gaming mouse.",
+              "Product_Price": 35.18,
+              "Product_Quantity": 70,
+              "Category_Name": "Gaming Mouse"
+            },
+            {
+              "Product_ID": 37,
+              "Product_Name": "Logitech G502 Hero 37",
+              "Product_Description": "A precise and durable gaming mouse.",
+              "Product_Price": 63.17,
+              "Product_Quantity": 82,
+              "Category_Name": "Gaming Mouse"
+            },
+            {
+              "Product_ID": 38,
+              "Product_Name": "Sony WH-1000XM4 38",
+              "Product_Description": "Premium noise-canceling wireless headphones.",
+              "Product_Price": 399.25,
+              "Product_Quantity": 92,
+              "Category_Name": "Headphones"
+            },
+            {
+              "Product_ID": 39,
+              "Product_Name": "Logitech G502 Hero 39",
+              "Product_Description": "A precise and durable gaming mouse.",
+              "Product_Price": 33.11,
+              "Product_Quantity": 46,
+              "Category_Name": "Gaming Mouse"
+            },
+            {
+              "Product_ID": 40,
+              "Product_Name": "Samsung QLED 40",
+              "Product_Description": "A 4K smart TV with vibrant colors.",
+              "Product_Price": 1168.74,
+              "Product_Quantity": 46,
+              "Category_Name": "TV"
+            },
+            {
+              "Product_ID": 41,
+              "Product_Name": "Razer BlackWidow 41",
+              "Product_Description": "A mechanical keyboard for gamers.",
+              "Product_Price": 224.08,
+              "Product_Quantity": 52,
+              "Category_Name": "Keyboard"
+            },
+            {
+              "Product_ID": 42,
+              "Product_Name": "Razer BlackWidow 42",
+              "Product_Description": "A mechanical keyboard for gamers.",
+              "Product_Price": 170.5,
+              "Product_Quantity": 26,
+              "Category_Name": "Keyboard"
+            },
+            {
+              "Product_ID": 43,
+              "Product_Name": "Samsung Galaxy 43",
+              "Product_Description": "A premium Android phone with great performance.",
+              "Product_Price": 773.19,
+              "Product_Quantity": 5,
+              "Category_Name": "Phone"
+            },
+            {
+              "Product_ID": 44,
+              "Product_Name": "iPhone 44",
+              "Product_Description": "A high-end smartphone with an exceptional camera.",
+              "Product_Price": 957.6,
+              "Product_Quantity": 49,
+              "Category_Name": "Phone"
+            },
+            {
+              "Product_ID": 45,
+              "Product_Name": "Samsung Galaxy 45",
+              "Product_Description": "A premium Android phone with great performance.",
+              "Product_Price": 831.27,
+              "Product_Quantity": 82,
+              "Category_Name": "Phone"
+            },
+            {
+              "Product_ID": 46,
+              "Product_Name": "Samsung QLED 46",
+              "Product_Description": "A 4K smart TV with vibrant colors.",
+              "Product_Price": 1216.41,
+              "Product_Quantity": 25,
+              "Category_Name": "TV"
+            },
+            {
+              "Product_ID": 47,
+              "Product_Name": "Samsung QLED 47",
+              "Product_Description": "A 4K smart TV with vibrant colors.",
+              "Product_Price": 1226.48,
+              "Product_Quantity": 3,
+              "Category_Name": "TV"
+            },
+            {
+              "Product_ID": 48,
+              "Product_Name": "Sony WH-1000XM4 48",
+              "Product_Description": "Premium noise-canceling wireless headphones.",
+              "Product_Price": 378.03,
+              "Product_Quantity": 93,
+              "Category_Name": "Headphones"
+            },
+            {
+              "Product_ID": 49,
+              "Product_Name": "Logitech G502 Hero 49",
+              "Product_Description": "A precise and durable gaming mouse.",
+              "Product_Price": 45.16,
+              "Product_Quantity": 70,
+              "Category_Name": "Gaming Mouse"
+            },
+            {
+              "Product_ID": 50,
+              "Product_Name": "iPad Pro 50",
+              "Product_Description": "A powerful tablet suitable for work and entertainment.",
+              "Product_Price": 1144.29,
+              "Product_Quantity": 68,
+              "Category_Name": "Tablet"
+            },
+            {
+              "Product_ID": 51,
+              "Product_Name": "Sony WH-1000XM4 51",
+              "Product_Description": "Premium noise-canceling wireless headphones.",
+              "Product_Price": 346.76,
+              "Product_Quantity": 74,
+              "Category_Name": "Headphones"
+            },
+            {
+              "Product_ID": 52,
+              "Product_Name": "Samsung QLED 52",
+              "Product_Description": "A 4K smart TV with vibrant colors.",
+              "Product_Price": 1116.81,
+              "Product_Quantity": 81,
+              "Category_Name": "TV"
+            },
+            {
+              "Product_ID": 53,
+              "Product_Name": "Samsung Galaxy 53",
+              "Product_Description": "A premium Android phone with great performance.",
+              "Product_Price": 871.98,
+              "Product_Quantity": 95,
+              "Category_Name": "Phone"
+            }
+          
+             
+    ]
+}
